@@ -8,6 +8,7 @@ Este repositorio pertenecia al **Grupo 10**, Acualmente pertenece al **Grupo 17*
 * Benjamin Pavez - 202173628-K
 * **Ayudante**: Vicente Ruiz
 
+
 ## Descripción del Proyecto
 El proyecto busca abordar la problemática presente en un hospital público de Santiago, específicamente en el área de imagenología, donde actualmente se lleva el registro de horas para la toma de exámenes de manera manual. Esta modalidad ha generado errores administrativos y dificultades en la gestión eficiente de los horarios. Se propone desarrollar un sistema de gestión de horarios de exámenes médicos que permita automatizar el proceso, evitar errores humanos y mejorar la organización de la información.
 
